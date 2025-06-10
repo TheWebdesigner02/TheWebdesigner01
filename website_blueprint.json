@@ -1,0 +1,54 @@
+{
+    "site_name": "NovaFrame Design",
+    "website_type": "default",
+    "website_description": "NovaFrame Design is a stylish, modern website crafted for an independent web designer (or small creative team) offering clean, responsive, and custom-built websites for businesses, entrepreneurs, and content creators. This site is designed to attract clients by showcasing past projects, detailing service packages, and providing an easy way to request a quote or book a consultation.\n\nThe site features 6 focused pages, each optimized to build credibility, show design skills, and convert visitors into paying clients.",
+    "template_name": "modern",
+    "user_about_us": "",
+    "address": "11332 Evans Trail, Beltsville, MD, 20705",
+    "phone": "202-441-7142",
+    "email": "louisjerome73@gmail.com",
+    "hours_str": "Mon:9AM-5PM,Tue:9AM-5PM,Wed:9AM-5PM,Thu:9AM-5PM,Fri:9AM-5PM,Sat:10AM-2PM,Sun:Closed",
+    "social_media_str": "",
+    "proposal_pdf_path": "C:/Users/steve/Downloads/Web_Design_Proposal_Updated.pdf",
+    "client_portal_url": "",
+    "include_payment": false,
+    "include_chatbot": true,
+    "user_defined_pages": [
+        {
+            "name": "Home",
+            "user_description": "Clean hero section with headline: \u201cLet\u2019s Build Your Dream Website\u201d\n\nBrief intro about what you do and who you serve\n\nHighlight of core services: Business Sites, Portfolios, E-Commerce\n\nFeatured projects slider or grid\n\nCTA buttons: \u201cSee My Work\u201d and \u201cGet a Free Quote\u201d",
+            "subpages": []
+        },
+        {
+            "name": "About Us",
+            "user_description": "Your story: how you got into web design\n\nDesign philosophy (focus on usability, speed, aesthetics, SEO, etc.)\n\nTools you use (Elementor, Webflow, Figma, WordPress, Shopify)\n\nPhoto of you and a fun fact or testimonial quote",
+            "subpages": []
+        },
+        {
+            "name": "Services & Packages",
+            "user_description": "Breakdown of services:\n\nStarter Website (1-page static) \u2013 $50\n\nBusiness Website (3\u20135 pages) \u2013 $150\n\nPro Website (E-commerce or Booking System) \u2013 $250+\n\nWhat\u2019s included in each: mobile responsive, SEO basics, contact form, etc.\n\nAdd-ons: extra pages, logo design, maintenance\n\n\u201cCompare Plans\u201d chart and CTA: \u201cStart My Project\u201d",
+            "subpages": []
+        },
+        {
+            "name": "Portfolio",
+            "user_description": "Visual gallery of websites you\u2019ve built (screenshots + live links)\n\nOptional project descriptions:\n\nClient type\n\nPurpose of site\n\nTools used (e.g., WordPress + Elementor)\n\nFilterable by category (e.g., Business, Blog, Shop)",
+            "subpages": []
+        },
+        {
+            "name": "Testimonials",
+            "user_description": "Quotes from past clients with names/photos (if available)\n\nShort success stories or client shout-outs\n\nStar ratings and social proof",
+            "subpages": []
+        },
+        {
+            "name": "Contact",
+            "user_description": "Simple contact form (Name, Email, Project Type, Budget, Deadline)\n\nWhatsApp link for fast chat\n\nCalendar embed (e.g., Calendly) for scheduling a discovery call\n\nSocial links (LinkedIn, Instagram, Behance)",
+            "subpages": []
+        }
+    ],
+    "enable_ecommerce": false,
+    "snipcart_api_key": "",
+    "currency": "USD",
+    "products_data": [],
+    "enable_blog": false,
+    "blog_posts_data": []
+}
